@@ -1,4 +1,4 @@
-package javaprograms;
+package javapractice;
 
 interface I2 {
     void add();
