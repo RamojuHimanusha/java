@@ -58,3 +58,18 @@ public class CollectionInterface {
         System.out.println("Is Empty: " + c.isEmpty());
     }
 }
+/*output
+    Collection: [Apple, Banana, Mango]
+After addAll: [Apple, Banana, Mango, Orange, Grapes]
+Contains Mango: true
+Contains all c2: true
+Size: 5
+Is Empty: false
+After remove Banana: [Apple, Mango, Orange, Grapes]
+After removeAll: [Apple, Mango]
+Using Iterator:
+Apple
+Mango
+After clear: []
+Is Empty: true*/
+    
